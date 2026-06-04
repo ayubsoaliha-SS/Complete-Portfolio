@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SA">
+  <rect width="64" height="64" rx="12" fill="#080806"/>
+  <rect x="4" y="4" width="56" height="56" rx="10" fill="none" stroke="#d6b56d" stroke-width="2"/>
+  <text x="32" y="39" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#f7f3ea">SA</text>
+  <circle cx="49" cy="17" r="4" fill="#77d4c5"/>
+</svg>
