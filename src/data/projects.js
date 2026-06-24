@@ -15,8 +15,8 @@ const projects = [
       "Structured the experience for React components, backend integration, and future authentication flows.",
     ],
     techStack: ["React", "Node.js", "Claude AI", "JavaScript"],
-    github: "",
-    live: "",
+    github: "https://github.com/ayubsoaliha-SS/LUNA.git",
+    live: "luna-two-sigma.vercel.app",
   },
 
   {
