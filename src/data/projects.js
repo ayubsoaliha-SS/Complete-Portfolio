@@ -16,7 +16,7 @@ const projects = [
     ],
     techStack: ["React", "Node.js", "Claude AI", "JavaScript"],
     github: "https://github.com/ayubsoaliha-SS/LUNA.git",
-    live: "luna-two-sigma.vercel.app",
+    live: "https://luna-two-sigma.vercel.app",
   },
 
   {
