@@ -55,8 +55,8 @@ const projects = [
       "Planned the platform around data models, secure access, and clear handoffs between users.",
     ],
     techStack: ["React", "Node", "MongoDB"],
-    github: "",
-    live: "",
+    github: "https://github.com/ayubsoaliha-SS/care-connect.git",
+    live: "https://care-connect-three-sandy.vercel.app",
   },
 
   {
