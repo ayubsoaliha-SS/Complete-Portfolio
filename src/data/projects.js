@@ -35,8 +35,8 @@ const projects = [
       "Prioritized responsive layout, strong imagery, and conversion-focused calls to action.",
     ],
     techStack: ["HTML", "CSS", "JavaScript"],
-    github: "",
-    live: "",
+    github: "https://github.com/ayubsoaliha-SS/Heavensway-Travel.git",
+    live: "https://heavens-travel.vercel.app",
   },
 
   {
