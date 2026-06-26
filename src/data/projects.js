@@ -75,8 +75,8 @@ const projects = [
       "Framed analytics around practical next steps rather than vanity scores.",
     ],
     techStack: ["React", "AI", "Analytics"],
-    github: "",
-    live: "",
+    github: "https://github.com/ayubsoaliha-SS/Al.audit.git",
+    live: "https://al-audit-frontend.vercel.app/",
   },
 
   {
