@@ -95,8 +95,8 @@ const projects = [
       "Kept the UI modular so features can grow into collaboration, feedback, and analytics flows.",
     ],
     techStack: ["React", "CSS", "JavaScript"],
-    github: "",
-    live: "",
+    github: "https://github.com/ayubsoaliha-SS/techflow.git",
+    live: "https://techflow-five.vercel.app",
   },
 ];
 
