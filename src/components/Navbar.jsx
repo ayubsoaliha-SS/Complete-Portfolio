@@ -17,7 +17,7 @@ function Navbar() {
         <li><a href="#contact">Contact</a></li>
         <li>
           <a
-            href="/resume.pdf"
+            href="/Soaliha-Ayub-Resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="resume-btn"
