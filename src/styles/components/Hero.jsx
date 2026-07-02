@@ -26,7 +26,7 @@ function Hero() {
             rel="noreferrer"
             className="primary-btn"
           >
-            Download Soaliha-Ayub-Resume.pdf
+            Download Resume
           </a>
 
           <a
